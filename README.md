@@ -1,1 +1,1 @@
-This repository houses a program that is intended to simplify the lives of Type One Diabetics. The program provides tools to calculate, store, and provide sets of data on blood sugar levels. Currently, this project relies on the users to enter their levels.
+This repository houses a java program that is intended to simplify the lives of Type One Diabetics. The program provides tools to calculate, store, and provide sets of data on blood sugar levels. Currently, this project relies on the users to enter their levels.
